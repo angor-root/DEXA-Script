@@ -1,3 +1,5 @@
+# Description: This script converts a text file to a json file.
+# Developed by: angor.root
 import re
 import json
 import string
