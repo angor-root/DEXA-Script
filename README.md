@@ -1,6 +1,6 @@
-# Proyecto CANTAD: Multihimanrios
+# Proyecto Script: Cantad Multihimanrios
 
-Este repositorio contiene las herramientas y recursos necesarios para la fase de transcripción del proyecto CANTAD.
+Este repositorio contiene las herramientas y recursos necesarios para la fase de transcripción del proyecto CANTAD. Subproyecto Cantad: Script.
 
 ## Descripción
 
@@ -15,6 +15,7 @@ El proyecto CANTAD se centra en la transcripción de multihimanrios. Este reposi
 
 ```
 /txt_to_json.py # Script formatear a JSON
+/promt.txt # promt GPT para fromatear txt
 ```
 
 ## Contribuir
