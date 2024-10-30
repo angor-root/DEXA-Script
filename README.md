@@ -4,7 +4,7 @@ Este repositorio contiene las herramientas y recursos necesarios para la fase de
 
 ## Descripción
 
-El proyecto CANTAD se centra en la transcripción de multihimanrios. Este repositorio servirá como un punto central para almacenar y gestionar todas las herramientas y recursos utilizados en esta fase del proyecto.
+El subproyecto Script: Cantad se centra en la transcripción de multihimanrios. Este repositorio servirá como un punto central para almacenar y gestionar todas las herramientas y recursos utilizados en esta fase del proyecto.
 
 ## Contenido
 
