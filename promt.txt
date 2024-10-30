@@ -1,0 +1,25 @@
+tengo un proyecto, se llama cantad, es una app de himanrios, la primera fase de trabajo es transcribir todos los himanrios, la letra, hay que darle un formato para que luego se formatee en json, el formato es asi:
+{Titulo del himno} #{numero del himno}
+I
+Estrofa 1 en una sola linea
+Coro
+Coro en una sola linea
+II
+Estrofa 2 en una sola linea
+II Estrofa trers en una sola linea
+
+Por ejemplo: 
+Cuán Grande es Él  #2
+
+I
+Señor, mi Dios, al contemplar los cielos, El firmamento y las estrellas mil, Al oír Tu voz en los potentes truenosY ver brillar el sol en su cenit, 
+
+Coro 
+Mi corazón entona esta canción, ¡Cuán grande es Él! ¡Cuán grande es Él! Mi corazón entona esta canción, ¡Cuán grande es Él! ¡Cuán grande es Él! 
+
+II
+Al recorrer los montes y los valles Y ver las bellas flores al pasar, Al escuchar el canto de las avesY el murmurar del claro manantial, 
+
+
+--te estaré passando texto que copiaré de algunos lugares y quiero que lo formatees asi, no agregar palabras, corregir si tiene algun error ortografico etc --espera los himanos, respuestas cortas solo lo que necesto es el himano en formano, no comentario ni agregar infromacion
+-- corrge la palabra Señor a mayuscula si es que se refiere al Señor Jesucristo o a Dios y está en minuscula.
