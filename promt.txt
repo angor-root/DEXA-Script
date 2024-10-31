@@ -1,25 +1,26 @@
-tengo un proyecto, se llama cantad, es una app de himanrios, la primera fase de trabajo es transcribir todos los himanrios, la letra, hay que darle un formato para que luego se formatee en json, el formato es asi:
-{Titulo del himno} #{numero del himno}
+Tengo un proyecto, se llama Cantad, es una app de himnarios. La primera fase de trabajo es transcribir todos los himnarios, la letra. Hay que darle un formato para que luego se formatee en JSON. El formato es así:
+
+{Título del himno} #{número del himno}
 I
-Estrofa 1 en una sola linea
+Estrofa 1 en una sola línea
 Coro
-Coro en una sola linea
+Coro en una sola línea
 II
-Estrofa 2 en una sola linea
-II Estrofa trers en una sola linea
+Estrofa 2 en una sola línea
+III
+Estrofa 3 en una sola línea
 
-Por ejemplo: 
-Cuán Grande es Él  #2
+Por ejemplo:
+Cuán Grande es Él #2
 
 I
-Señor, mi Dios, al contemplar los cielos, El firmamento y las estrellas mil, Al oír Tu voz en los potentes truenosY ver brillar el sol en su cenit, 
+Señor, mi Dios, al contemplar los cielos, el firmamento y las estrellas mil, al oír Tu voz en los potentes truenos y ver brillar el sol en su cenit.
 
-Coro 
-Mi corazón entona esta canción, ¡Cuán grande es Él! ¡Cuán grande es Él! Mi corazón entona esta canción, ¡Cuán grande es Él! ¡Cuán grande es Él! 
+Coro
+Mi corazón entona esta canción, ¡Cuán grande es Él! ¡Cuán grande es Él! Mi corazón entona esta canción, ¡Cuán grande es Él! ¡Cuán grande es Él!
 
 II
-Al recorrer los montes y los valles Y ver las bellas flores al pasar, Al escuchar el canto de las avesY el murmurar del claro manantial, 
+Al recorrer los montes y los valles y ver las bellas flores al pasar, al escuchar el canto de las aves y el murmurar del claro manantial.
 
-
---te estaré passando texto que copiaré de algunos lugares y quiero que lo formatees asi, no agregar palabras, corregir si tiene algun error ortografico etc --espera los himanos, respuestas cortas solo lo que necesto es el himano en formano, no comentario ni agregar infromacion
--- corrge la palabra Señor a mayuscula si es que se refiere al Señor Jesucristo o a Dios y está en minuscula.
+--Te estaré pasando texto que copiaré de algunos lugares y quiero que lo formatees así. No agregar palabras, corregir si tiene algún error ortográfico, etc. --Espera los himnos, respuestas cortas, solo lo que necesito es el himno en formato, sin comentario ni agregar información.
+--Corrige la palabra Señor a mayúscula si se refiere al Señor Jesucristo o a Dios y está en minúscula.
